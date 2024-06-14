@@ -1,15 +1,11 @@
 # What was created 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+Mi Card is a virtual business card.  Rather than rummaging through your wallet to grab your business card, you can instruct your new connection to download your business card onto their phone from the app store.
 
-# Topics covered in creation of project
-- How to create Stateless Widgets
-- What is the difference between hot reload and hot refresh and running an app from cold
-- How to use Containers to lay out your UI
-- How to use Columns and Rows to position your UI elements
-- How to add custom fonts
-- How to add Material icons
-- How to style Text widgets
-- How to read and use Flutter Documentation
+# Topics covered in the creation of the project
+- Stateless Widgets and Hot Reload vs Hot Refresh
+- Creating a UI using Containers, Columns, and Rows
+- Adding custom fonts and Material icons
+- Advanced Material widgets including ListTile and Card
 
 This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
 
